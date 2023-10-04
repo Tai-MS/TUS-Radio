@@ -13,7 +13,7 @@
 .fw-semi-bold {
     font-weight: 700 !important;
 }
-
+img
 .back-to-top {
     position: fixed;
     display: none;
@@ -172,7 +172,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/bg-hero.jpg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/equipo-sala-grabacion-musical-vacia.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
